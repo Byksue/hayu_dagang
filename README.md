@@ -1,2 +1,2 @@
 # hayu_dagang
-Naufal Kentod
+Simple E-Commerce App Build with PHP Native
